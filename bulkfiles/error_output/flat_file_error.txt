@@ -873,3 +873,262 @@ Misceláneos,Tubo de Minas HB 0.5mm (tubo de 12 minas),Sin Marca,1,Unidades,$1.00
 ,-1071607675,151
 Misceláneos,Tubo de Minas HB 0.5mm (tubo de 12 minas),Sin Marca,1,Unidades,$1.22,Súper Selectos Metrocentro Santa Ana,"final avenida independencia sur entre treinta y tres y treinta y cinco calle poniente, metrocentro local ciento veintitres,santa ana",Santa Ana,Santa Ana,10/1/2018
 ,-1071607675,151
+Misceláneos,Ábaco,Sin Marca,1,Unidades,sinprecio,"Zona Centro, calle Ruben Dario, Hula Hula","Zona Centro, calle Ruben Dario, Hula Hula",San Salvador,San Salvador,5/1/2018
+,-1071607676,145
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,$0.17,La Dibuteca,"Calle Libertad Poniente y Avenida Independencia, local 212 Barrio El Centro, Plaza Florida, Santa Ana",Santa Ana,Santa Ana,5/1/2018
+,-1071607675,151
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,$0.15,Librería Bendición de Dios,"Calle Gerardo Barrios, Local L-5 Condominio Central Gerardo Barrios, Frente Edificio 1, Mercado Central",San Salvador,San Salvador,5/1/2018
+,-1071607675,151
+=====================================================================================================================
+,-1071607675,130
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,$$0.12,Librería Shadai San Salvador,"Cuarta Avenida Norte N° 224, Local 1, San Salvador",San Salvador,San Salvador,5/1/2018
+,-1071607676,145
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,-,Librería y Papelería El Paseo,"Condominio Altos del Paseo, local 25, Paseo General Escalón, San Salvador",San Salvador,San Salvador,5/1/2018
+,-1071607676,145
+Misceláneos,Bárra de silicón delgada (unidad),Sin Marca,1,Unidades,*,Librería y Papelería Milenium,6a Calle Poniente No.3-14,Ahuachapan,Ahuachapan,5/1/2018
+,-1071607676,145
+Misceláneos,"Borrador Suave, unidad (6 cm)",Sin Marca,1,Unidades,$0.45,La Dibuteca,"Calle Libertad Poniente y Avenida Independencia, local 212 Barrio El Centro, Plaza Florida, Santa Ana",Santa Ana,Santa Ana,5/1/2018
+,-1071607675,151
+Misceláneos,"Borrador Suave, unidad (6 cm)",Sin Marca,1,Unidades,$0.25,Librería Bendición de Dios,"Calle Gerardo Barrios, Local L-5 Condominio Central Gerardo Barrios, Frente Edificio 1, Mercado Central",San Salvador,San Salvador,5/1/2018
+,-1071607675,151
+Misceláneos,"Borrador Suave, unidad (6 cm)",Sin Marca,1,Unidades,regalia,Librería Escolar 1a Calle Oriente,1a Calle Oriente N° 115-A,San Salvador,San Salvador,5/1/2018
+,-1071607676,145
+Misceláneos,"Borrador Suave, unidad (6 cm)",Sin Marca,1,Unidades,sinprecio,Librería La Nueva Centroamericana,6a Avenida Norte No 119,San Salvador,San Salvador,5/1/2018
+,-1071607676,145
+Misceláneos,"Caja de crayones, 12 unidades (aproximado 9.2 cm)",Sin Marca,1,Unidades,$1.80,La Dibuteca,"Calle Libertad Poniente y Avenida Independencia, local 212 Barrio El Centro, Plaza Florida, Santa Ana",Santa Ana,Santa Ana,5/1/2018
+,-1071607675,151
+Misceláneos,"Caja de crayones, 12 unidades (aproximado 9.2 cm)",Sin Marca,1,Unidades,$1.00,Librería Bendición de Dios,"Calle Gerardo Barrios, Local L-5 Condominio Central Gerardo Barrios, Frente Edificio 1, Mercado Central",San Salvador,San Salvador,5/1/2018
+,-1071607675,151
+Misceláneos,"Caja de crayones, 12 unidades (aproximado 9.2 cm)",Sin Marca,1,Unidades,sinprecio,"Librería Nuevo Mundo, Plaza Soyapango",Boulevard del Ejército Plaza Soyapango II Local #9,San Salvador,Soyapango,5/1/2018
+,-1071607676,145
+Misceláneos,"Caja de crayones, 12 unidades (aproximado 9.2 cm)",Sin Marca,1,Unidades,regalias,Librería y Papelería ABC,"3a. Calle Oriente y 4a. Avenida Norte local N° 241 Edificio Kury Planta Baja,San Salvador",San Salvador,San Salvador,5/1/2018
+,-1071607676,145
+Misceláneos,"Caja de crayones, 12 unidades (aproximado 9.2 cm)",Sin Marca,1,Unidades,sinprecio,Mercado de Santa Ana,,Santa Ana,Santa Ana,5/1/2018
+,-1071607676,145
+Misceláneos,Caja de Fastener (50 sets),Sin Marca,1,Unidades,$1.30,La Dibuteca,"Calle Libertad Poniente y Avenida Independencia, local 212 Barrio El Centro, Plaza Florida, Santa Ana",Santa Ana,Santa Ana,5/1/2018
+,-1071607675,151
+Misceláneos,Caja de Fastener (50 sets),Sin Marca,1,Unidades,$1.75,Librería Bendición de Dios,"Calle Gerardo Barrios, Local L-5 Condominio Central Gerardo Barrios, Frente Edificio 1, Mercado Central",San Salvador,San Salvador,5/1/2018
+,-1071607675,151
+Misceláneos,Caja de Fastener (50 sets),Sin Marca,1,Unidades,sinprecio,Mercado de Santa Ana,,Santa Ana,Santa Ana,5/1/2018
+,-1071607676,145
+Misceláneos,Caja de Grapas (5000 grapas),Sin Marca,1,Unidades,sinprecio,"Farmacia y Librería San Rey N° 23				","4a. Calle Poniente, local No 207, San Miguel",San Miguel,San Miguel,5/1/2018
+,-1071607676,145
+Misceláneos,Caja de Grapas (5000 grapas),Sin Marca,1,Unidades,$1.50,La Dibuteca,"Calle Libertad Poniente y Avenida Independencia, local 212 Barrio El Centro, Plaza Florida, Santa Ana",Santa Ana,Santa Ana,5/1/2018
+,-1071607675,151
+Misceláneos,Caja de Grapas (5000 grapas),Sin Marca,1,Unidades,$1.00,Librería Bendición de Dios,"Calle Gerardo Barrios, Local L-5 Condominio Central Gerardo Barrios, Frente Edificio 1, Mercado Central",San Salvador,San Salvador,5/1/2018
+,-1071607675,151
+Misceláneos,Caja de Grapas (5000 grapas),Sin Marca,1,Unidades,sin precio,Librería y Papelería Primavera,"Calle Libertad Poniente y 6a Avenida sur No.19
+",Santa Ana,Santa Ana,5/1/2018
+,-1071607676,145
+Misceláneos,"Caja de plastilina, 10 barritas (colores surtidos)",Sin Marca,1,Unidades,$0.73,La Dibuteca,"Calle Libertad Poniente y Avenida Independencia, local 212 Barrio El Centro, Plaza Florida, Santa Ana",Santa Ana,Santa Ana,5/1/2018
+,-1071607675,151
+Misceláneos,"Caja de plastilina, 10 barritas (colores surtidos)",Sin Marca,1,Unidades,$0.80,Librería Bendición de Dios,"Calle Gerardo Barrios, Local L-5 Condominio Central Gerardo Barrios, Frente Edificio 1, Mercado Central",San Salvador,San Salvador,5/1/2018
+,-1071607675,151
+Misceláneos,"Caja de plastilina, 10 barritas (colores surtidos)",Sin Marca,1,Unidades,sinprecio,"Librería Cervantes, Sucursal # 3 Metrosur","Centro Comercial Metrosur, 3a Etapa, Local #B-20, San Salvador",San Salvador,San Salvador,5/1/2018
+,-1071607676,145
+Misceláneos,"Calculadora científica, funciones mínimas: exponencial, fracciones y trigonométricas",Sin Marca,1,Unidades,$12.25,La Dibuteca,"Calle Libertad Poniente y Avenida Independencia, local 212 Barrio El Centro, Plaza Florida, Santa Ana",Santa Ana,Santa Ana,5/1/2018
+,-1071607675,151
+Misceláneos,"Calculadora científica, funciones mínimas: exponencial, fracciones y trigonométricas",Sin Marca,1,Unidades,$10.00,Librería Bendición de Dios,"Calle Gerardo Barrios, Local L-5 Condominio Central Gerardo Barrios, Frente Edificio 1, Mercado Central",San Salvador,San Salvador,5/1/2018
+,-1071607675,151
+"Cartapacios Lisos, Separadores y Páginas",Cartapacio No. 12  (1 pulgada),Sin Marca,1,Unidades,$3.25,La Dibuteca,"Calle Libertad Poniente y Avenida Independencia, local 212 Barrio El Centro, Plaza Florida, Santa Ana",Santa Ana,Santa Ana,5/1/2018
+,-1071607675,151
+Misceláneos,"Cartulina, Pliego",Sin Marca,1,Unidades,$0.20,La Dibuteca,"Calle Libertad Poniente y Avenida Independencia, local 212 Barrio El Centro, Plaza Florida, Santa Ana",Santa Ana,Santa Ana,5/1/2018
+,-1071607675,151
+Misceláneos,"Cartulina, Pliego",Sin Marca,1,Unidades,$0.20,Librería Bendición de Dios,"Calle Gerardo Barrios, Local L-5 Condominio Central Gerardo Barrios, Frente Edificio 1, Mercado Central",San Salvador,San Salvador,5/1/2018
+,-1071607675,151
+Misceláneos,Cinta adhesiva transparente (2 pulgadas),Sin Marca,1,Unidades,$0.76,La Dibuteca,"Calle Libertad Poniente y Avenida Independencia, local 212 Barrio El Centro, Plaza Florida, Santa Ana",Santa Ana,Santa Ana,5/1/2018
+,-1071607675,151
+Misceláneos,"Compas Corriente de Plástico, unidad (Sin Lápiz)",Sin Marca,1,Unidades,$0.65,Librería Bendición de Dios,"Calle Gerardo Barrios, Local L-5 Condominio Central Gerardo Barrios, Frente Edificio 1, Mercado Central",San Salvador,San Salvador,5/1/2018
+,-1071607675,151
+Misceláneos,"Corrector tipo Bote, unidad de 20 ml",Sin Marca,1,Unidades,$0.85,La Dibuteca,"Calle Libertad Poniente y Avenida Independencia, local 212 Barrio El Centro, Plaza Florida, Santa Ana",Santa Ana,Santa Ana,5/1/2018
+,-1071607675,151
+Misceláneos,"Corrector tipo Lapicero, unidad",Sin Marca,1,Unidades,$1.00,La Dibuteca,"Calle Libertad Poniente y Avenida Independencia, local 212 Barrio El Centro, Plaza Florida, Santa Ana",Santa Ana,Santa Ana,5/1/2018
+,-1071607675,151
+Misceláneos,"Corrector tipo Lapicero, unidad",Sin Marca,1,Unidades,$0.65,Librería Bendición de Dios,"Calle Gerardo Barrios, Local L-5 Condominio Central Gerardo Barrios, Frente Edificio 1, Mercado Central",San Salvador,San Salvador,5/1/2018
+,-1071607675,151
+Libretas y Cuadernillos,Cuadernillo Cuadriculado (5 hojas dobles),Sin Marca,1,Unidades,$0.17,La Dibuteca,"Calle Libertad Poniente y Avenida Independencia, local 212 Barrio El Centro, Plaza Florida, Santa Ana",Santa Ana,Santa Ana,5/1/2018
+,-1071607675,151
+Libretas y Cuadernillos,Cuadernillo Cuadriculado (5 hojas dobles),Sin Marca,1,Unidades,$0.20,Librería Bendición de Dios,"Calle Gerardo Barrios, Local L-5 Condominio Central Gerardo Barrios, Frente Edificio 1, Mercado Central",San Salvador,San Salvador,5/1/2018
+,-1071607675,151
+Libretas y Cuadernillos,"Cuadernillo Rayado, unidad (5 hojas dobles)",Sin Marca,1,Unidades,$0.17,La Dibuteca,"Calle Libertad Poniente y Avenida Independencia, local 212 Barrio El Centro, Plaza Florida, Santa Ana",Santa Ana,Santa Ana,5/1/2018
+,-1071607675,151
+Libretas y Cuadernillos,"Cuadernillo Rayado, unidad (5 hojas dobles)",Sin Marca,1,Unidades,$0.20,Librería Bendición de Dios,"Calle Gerardo Barrios, Local L-5 Condominio Central Gerardo Barrios, Frente Edificio 1, Mercado Central",San Salvador,San Salvador,5/1/2018
+,-1071607675,151
+Cuadernos cosidos,Cuaderno cosido grande,Sin Marca,1,Unidades,$1.10,La Dibuteca,"Calle Libertad Poniente y Avenida Independencia, local 212 Barrio El Centro, Plaza Florida, Santa Ana",Santa Ana,Santa Ana,5/1/2018
+,-1071607675,151
+Cuadernos cosidos,Cuaderno cosido grande,Sin Marca,1,Unidades,$1.25,Librería Bendición de Dios,"Calle Gerardo Barrios, Local L-5 Condominio Central Gerardo Barrios, Frente Edificio 1, Mercado Central",San Salvador,San Salvador,5/1/2018
+,-1071607675,151
+Cuadernos cosidos,Cuaderno cosido pequeño,Sin Marca,1,Unidades,$0.60,La Dibuteca,"Calle Libertad Poniente y Avenida Independencia, local 212 Barrio El Centro, Plaza Florida, Santa Ana",Santa Ana,Santa Ana,5/1/2018
+,-1071607675,151
+Cuadernos cosidos,Cuaderno cosido pequeño,Sin Marca,1,Unidades,$0.75,Librería Bendición de Dios,"Calle Gerardo Barrios, Local L-5 Condominio Central Gerardo Barrios, Frente Edificio 1, Mercado Central",San Salvador,San Salvador,5/1/2018
+,-1071607675,151
+Cuadernos de Espiral,Cuadriculado  No. 12  (No. 1),Sin Marca,1,Unidades,$1.20,La Dibuteca,"Calle Libertad Poniente y Avenida Independencia, local 212 Barrio El Centro, Plaza Florida, Santa Ana",Santa Ana,Santa Ana,5/1/2018
+,-1071607675,151
+Cuadernos de Espiral,Cuadriculado  No. 12  (No. 1),Sin Marca,1,Unidades,$0.80,Librería Bendición de Dios,"Calle Gerardo Barrios, Local L-5 Condominio Central Gerardo Barrios, Frente Edificio 1, Mercado Central",San Salvador,San Salvador,5/1/2018
+,-1071607675,151
+Cuadernos Engrapados,Cuadriculado de 5 mm (100/200),Sin Marca,1,Unidades,$0.77,La Dibuteca,"Calle Libertad Poniente y Avenida Independencia, local 212 Barrio El Centro, Plaza Florida, Santa Ana",Santa Ana,Santa Ana,5/1/2018
+,-1071607675,151
+Cuadernos Engrapados,Cuadriculado de 5 mm (100/200),Sin Marca,1,Unidades,$0.47,Librería Bendición de Dios,"Calle Gerardo Barrios, Local L-5 Condominio Central Gerardo Barrios, Frente Edificio 1, Mercado Central",San Salvador,San Salvador,5/1/2018
+,-1071607675,151
+Cuadernos Engrapados,Cuadriculado de 8 mm (100/200),Sin Marca,1,Unidades,$0.47,Librería Bendición de Dios,"Calle Gerardo Barrios, Local L-5 Condominio Central Gerardo Barrios, Frente Edificio 1, Mercado Central",San Salvador,San Salvador,5/1/2018
+,-1071607675,151
+Cuadernos Engrapados,Cuadriculado de 8 mm (50/100),Sin Marca,1,Unidades,$0.40,La Dibuteca,"Calle Libertad Poniente y Avenida Independencia, local 212 Barrio El Centro, Plaza Florida, Santa Ana",Santa Ana,Santa Ana,5/1/2018
+,-1071607675,151
+Cuadernos Engrapados,Cuadriculado de 8 mm (50/100),Sin Marca,1,Unidades,$0.30,Librería Bendición de Dios,"Calle Gerardo Barrios, Local L-5 Condominio Central Gerardo Barrios, Frente Edificio 1, Mercado Central",San Salvador,San Salvador,5/1/2018
+,-1071607675,151
+Cuadernos de Espiral,Cuadriculado No. 3,Sin Marca,1,Unidades,$1.05,La Dibuteca,"Calle Libertad Poniente y Avenida Independencia, local 212 Barrio El Centro, Plaza Florida, Santa Ana",Santa Ana,Santa Ana,5/1/2018
+,-1071607675,151
+Cuadernos de Espiral,Cuadriculado No. 3,Sin Marca,1,Unidades,$0.75,Librería Bendición de Dios,"Calle Gerardo Barrios, Local L-5 Condominio Central Gerardo Barrios, Frente Edificio 1, Mercado Central",San Salvador,San Salvador,5/1/2018
+,-1071607675,151
+Cuadernos Engrapados,Doble rayado (100/200),Sin Marca,1,Unidades,$0.47,Librería Bendición de Dios,"Calle Gerardo Barrios, Local L-5 Condominio Central Gerardo Barrios, Frente Edificio 1, Mercado Central",San Salvador,San Salvador,5/1/2018
+,-1071607675,151
+Cuadernos Engrapados,Doble rayado (50/100),Sin Marca,1,Unidades,$0.40,La Dibuteca,"Calle Libertad Poniente y Avenida Independencia, local 212 Barrio El Centro, Plaza Florida, Santa Ana",Santa Ana,Santa Ana,5/1/2018
+,-1071607675,151
+Cuadernos Engrapados,Doble rayado (50/100),Sin Marca,1,Unidades,$0.30,Librería Bendición de Dios,"Calle Gerardo Barrios, Local L-5 Condominio Central Gerardo Barrios, Frente Edificio 1, Mercado Central",San Salvador,San Salvador,5/1/2018
+,-1071607675,151
+Cuadernos de Espiral,Doble rayado No. 12  (No. 1),Sin Marca,1,Unidades,$0.80,Librería Bendición de Dios,"Calle Gerardo Barrios, Local L-5 Condominio Central Gerardo Barrios, Frente Edificio 1, Mercado Central",San Salvador,San Salvador,5/1/2018
+,-1071607675,151
+Misceláneos,Estuche de Geometría (Regla de 20cm sin compas),Sin Marca,1,Unidades,$0.75,La Dibuteca,"Calle Libertad Poniente y Avenida Independencia, local 212 Barrio El Centro, Plaza Florida, Santa Ana",Santa Ana,Santa Ana,5/1/2018
+,-1071607675,151
+Misceláneos,Estuche de Geometría (Regla de 20cm sin compas),Sin Marca,1,Unidades,$0.75,Librería Bendición de Dios,"Calle Gerardo Barrios, Local L-5 Condominio Central Gerardo Barrios, Frente Edificio 1, Mercado Central",San Salvador,San Salvador,5/1/2018
+,-1071607675,151
+Misceláneos,Estuche de tela para lápices,Sin Marca,1,Unidades,$1.75,La Dibuteca,"Calle Libertad Poniente y Avenida Independencia, local 212 Barrio El Centro, Plaza Florida, Santa Ana",Santa Ana,Santa Ana,5/1/2018
+,-1071607675,151
+Misceláneos,"Folder, tamaño carta, unidad",Sin Marca,1,Unidades,$0.12,La Dibuteca,"Calle Libertad Poniente y Avenida Independencia, local 212 Barrio El Centro, Plaza Florida, Santa Ana",Santa Ana,Santa Ana,5/1/2018
+,-1071607675,151
+Misceláneos,"Folder, tamaño carta, unidad",Sin Marca,1,Unidades,$0.10,Librería Bendición de Dios,"Calle Gerardo Barrios, Local L-5 Condominio Central Gerardo Barrios, Frente Edificio 1, Mercado Central",San Salvador,San Salvador,5/1/2018
+,-1071607675,151
+Misceláneos,"Folder, tamaño oficio, unidad",Sin Marca,1,Unidades,$0.14,La Dibuteca,"Calle Libertad Poniente y Avenida Independencia, local 212 Barrio El Centro, Plaza Florida, Santa Ana",Santa Ana,Santa Ana,5/1/2018
+,-1071607675,151
+Misceláneos,"Folder, tamaño oficio, unidad",Sin Marca,1,Unidades,$0.15,Librería Bendición de Dios,"Calle Gerardo Barrios, Local L-5 Condominio Central Gerardo Barrios, Frente Edificio 1, Mercado Central",San Salvador,San Salvador,5/1/2018
+,-1071607675,151
+Misceláneos,Frasco de goma con brillantina (mínimo 60 ml),Sin Marca,1,Unidades,$0.80,La Dibuteca,"Calle Libertad Poniente y Avenida Independencia, local 212 Barrio El Centro, Plaza Florida, Santa Ana",Santa Ana,Santa Ana,5/1/2018
+,-1071607675,151
+Misceláneos,Hojas de papel de color tamaño carta (paquete de 100),Sin Marca,1,Unidades,$2.75,La Dibuteca,"Calle Libertad Poniente y Avenida Independencia, local 212 Barrio El Centro, Plaza Florida, Santa Ana",Santa Ana,Santa Ana,5/1/2018
+,-1071607675,151
+Misceláneos,Hojas de papel de color tamaño carta (paquete de 100),Sin Marca,1,Unidades,$2.50,Librería Bendición de Dios,"Calle Gerardo Barrios, Local L-5 Condominio Central Gerardo Barrios, Frente Edificio 1, Mercado Central",San Salvador,San Salvador,5/1/2018
+,-1071607675,151
+Misceláneos,Hojas de papel de color tamaño carta (paquete de 50),Sin Marca,1,Unidades,$1.60,La Dibuteca,"Calle Libertad Poniente y Avenida Independencia, local 212 Barrio El Centro, Plaza Florida, Santa Ana",Santa Ana,Santa Ana,5/1/2018
+,-1071607675,151
+Misceláneos,Hojas de papel de color tamaño carta (paquete de 50),Sin Marca,1,Unidades,$1.50,Librería Bendición de Dios,"Calle Gerardo Barrios, Local L-5 Condominio Central Gerardo Barrios, Frente Edificio 1, Mercado Central",San Salvador,San Salvador,5/1/2018
+,-1071607675,151
+Misceláneos,Hojas de papel fomy tamaño carta (paquete de 25),Sin Marca,1,Unidades,$3.00,Librería Bendición de Dios,"Calle Gerardo Barrios, Local L-5 Condominio Central Gerardo Barrios, Frente Edificio 1, Mercado Central",San Salvador,San Salvador,5/1/2018
+,-1071607675,151
+Misceláneos,Hojas de papel fomy tamaño carta (paquete de 50),Sin Marca,1,Unidades,$6.00,Librería Bendición de Dios,"Calle Gerardo Barrios, Local L-5 Condominio Central Gerardo Barrios, Frente Edificio 1, Mercado Central",San Salvador,San Salvador,5/1/2018
+,-1071607675,151
+Misceláneos,"Lapicero, unidad",Sin Marca,1,Unidades,$0.17,La Dibuteca,"Calle Libertad Poniente y Avenida Independencia, local 212 Barrio El Centro, Plaza Florida, Santa Ana",Santa Ana,Santa Ana,5/1/2018
+,-1071607675,151
+Misceláneos,"Lapicero, unidad",Sin Marca,1,Unidades,$0.15,Librería Bendición de Dios,"Calle Gerardo Barrios, Local L-5 Condominio Central Gerardo Barrios, Frente Edificio 1, Mercado Central",San Salvador,San Salvador,5/1/2018
+,-1071607675,151
+Misceláneos,"Lápices de Color (12/24), caja de 12 unidades",Sin Marca,1,Unidades,$3.05,La Dibuteca,"Calle Libertad Poniente y Avenida Independencia, local 212 Barrio El Centro, Plaza Florida, Santa Ana",Santa Ana,Santa Ana,5/1/2018
+,-1071607675,151
+Misceláneos,"Lápices de Color (12/24), caja de 12 unidades",Sin Marca,1,Unidades,$2.00,Librería Bendición de Dios,"Calle Gerardo Barrios, Local L-5 Condominio Central Gerardo Barrios, Frente Edificio 1, Mercado Central",San Salvador,San Salvador,5/1/2018
+,-1071607675,151
+Misceláneos,"Lápices Largos de Color, caja de 12 unidades",Sin Marca,1,Unidades,$2.65,La Dibuteca,"Calle Libertad Poniente y Avenida Independencia, local 212 Barrio El Centro, Plaza Florida, Santa Ana",Santa Ana,Santa Ana,5/1/2018
+,-1071607675,151
+Misceláneos,"Lápices Largos de Color, caja de 12 unidades",Sin Marca,1,Unidades,$1.65,Librería Bendición de Dios,"Calle Gerardo Barrios, Local L-5 Condominio Central Gerardo Barrios, Frente Edificio 1, Mercado Central",San Salvador,San Salvador,5/1/2018
+,-1071607675,151
+Misceláneos,"Lápiz HB, unidad",Sin Marca,1,Unidades,$0.17,La Dibuteca,"Calle Libertad Poniente y Avenida Independencia, local 212 Barrio El Centro, Plaza Florida, Santa Ana",Santa Ana,Santa Ana,5/1/2018
+,-1071607675,151
+Misceláneos,"Lápiz HB, unidad",Sin Marca,1,Unidades,$0.15,Librería Bendición de Dios,"Calle Gerardo Barrios, Local L-5 Condominio Central Gerardo Barrios, Frente Edificio 1, Mercado Central",San Salvador,San Salvador,5/1/2018
+,-1071607675,151
+Libretas y Cuadernillos,Libreta de construcción,Sin Marca,1,Unidades,$1.75,Librería Bendición de Dios,"Calle Gerardo Barrios, Local L-5 Condominio Central Gerardo Barrios, Frente Edificio 1, Mercado Central",San Salvador,San Salvador,5/1/2018
+,-1071607675,151
+Libretas y Cuadernillos,"Libreta de Papel Bond, tamaño carta (50 hojas)",Sin Marca,1,Unidades,$1.00,La Dibuteca,"Calle Libertad Poniente y Avenida Independencia, local 212 Barrio El Centro, Plaza Florida, Santa Ana",Santa Ana,Santa Ana,5/1/2018
+,-1071607675,151
+Libretas y Cuadernillos,"Libreta de Papel Bond, tamaño oficio (50 hojas)",Sin Marca,1,Unidades,$1.20,La Dibuteca,"Calle Libertad Poniente y Avenida Independencia, local 212 Barrio El Centro, Plaza Florida, Santa Ana",Santa Ana,Santa Ana,5/1/2018
+,-1071607675,151
+Libretas y Cuadernillos,"Libreta de Papel Bond, tamaño oficio (50 hojas)",Sin Marca,1,Unidades,$0.90,Librería Bendición de Dios,"Calle Gerardo Barrios, Local L-5 Condominio Central Gerardo Barrios, Frente Edificio 1, Mercado Central",San Salvador,San Salvador,5/1/2018
+,-1071607675,151
+Libretas y Cuadernillos,Libreta de papel lustre variedad de colores,Sin Marca,1,Unidades,$1.75,Librería Bendición de Dios,"Calle Gerardo Barrios, Local L-5 Condominio Central Gerardo Barrios, Frente Edificio 1, Mercado Central",San Salvador,San Salvador,5/1/2018
+,-1071607675,151
+Cuadernos Engrapados,Liso (100/200),Sin Marca,1,Unidades,$0.47,Librería Bendición de Dios,"Calle Gerardo Barrios, Local L-5 Condominio Central Gerardo Barrios, Frente Edificio 1, Mercado Central",San Salvador,San Salvador,5/1/2018
+,-1071607675,151
+Cuadernos de Espiral,Liso No. 12  (No. 1),Sin Marca,1,Unidades,$1.20,La Dibuteca,"Calle Libertad Poniente y Avenida Independencia, local 212 Barrio El Centro, Plaza Florida, Santa Ana",Santa Ana,Santa Ana,5/1/2018
+,-1071607675,151
+Cuadernos de Espiral,Liso No. 12  (No. 1),Sin Marca,1,Unidades,$0.80,Librería Bendición de Dios,"Calle Gerardo Barrios, Local L-5 Condominio Central Gerardo Barrios, Frente Edificio 1, Mercado Central",San Salvador,San Salvador,5/1/2018
+,-1071607675,151
+Misceláneos,Marcador de pizarra (colores surtidos),Sin Marca,1,Unidades,$1.20,La Dibuteca,"Calle Libertad Poniente y Avenida Independencia, local 212 Barrio El Centro, Plaza Florida, Santa Ana",Santa Ana,Santa Ana,5/1/2018
+,-1071607675,151
+Misceláneos,Marcador permanente (colores surtidos),Sin Marca,1,Unidades,$1.05,La Dibuteca,"Calle Libertad Poniente y Avenida Independencia, local 212 Barrio El Centro, Plaza Florida, Santa Ana",Santa Ana,Santa Ana,5/1/2018
+,-1071607675,151
+Misceláneos,Marcador permanente (colores surtidos),Sin Marca,1,Unidades,$0.75,Librería Bendición de Dios,"Calle Gerardo Barrios, Local L-5 Condominio Central Gerardo Barrios, Frente Edificio 1, Mercado Central",San Salvador,San Salvador,5/1/2018
+,-1071607675,151
+"Cartapacios Lisos, Separadores y Páginas","Paginas rayadas, lisas y cuadriculadas No. 12 (100 hojas)",Sin Marca,1,Unidades,$1.80,La Dibuteca,"Calle Libertad Poniente y Avenida Independencia, local 212 Barrio El Centro, Plaza Florida, Santa Ana",Santa Ana,Santa Ana,5/1/2018
+,-1071607675,151
+Misceláneos,"Papel Lustre, Pliego",Sin Marca,1,Unidades,$0.20,La Dibuteca,"Calle Libertad Poniente y Avenida Independencia, local 212 Barrio El Centro, Plaza Florida, Santa Ana",Santa Ana,Santa Ana,5/1/2018
+,-1071607675,151
+Misceláneos,"Papel Lustre, Pliego",Sin Marca,1,Unidades,$0.15,Librería Bendición de Dios,"Calle Gerardo Barrios, Local L-5 Condominio Central Gerardo Barrios, Frente Edificio 1, Mercado Central",San Salvador,San Salvador,5/1/2018
+,-1071607675,151
+Misceláneos,"Pegamento Blanco, bote de 4 Oz",Sin Marca,1,Unidades,$1.55,La Dibuteca,"Calle Libertad Poniente y Avenida Independencia, local 212 Barrio El Centro, Plaza Florida, Santa Ana",Santa Ana,Santa Ana,5/1/2018
+,-1071607675,151
+Misceláneos,"Pegamento Blanco, bote de 4 Oz",Sin Marca,1,Unidades,$1.25,Librería Bendición de Dios,"Calle Gerardo Barrios, Local L-5 Condominio Central Gerardo Barrios, Frente Edificio 1, Mercado Central",San Salvador,San Salvador,5/1/2018
+,-1071607675,151
+Misceláneos,"Pegamento en barra, 20 gramos",Sin Marca,1,Unidades,$1.40,La Dibuteca,"Calle Libertad Poniente y Avenida Independencia, local 212 Barrio El Centro, Plaza Florida, Santa Ana",Santa Ana,Santa Ana,5/1/2018
+,-1071607675,151
+Misceláneos,"Pegamento en barra, 20 gramos",Sin Marca,1,Unidades,$1.65,Librería Bendición de Dios,"Calle Gerardo Barrios, Local L-5 Condominio Central Gerardo Barrios, Frente Edificio 1, Mercado Central",San Salvador,San Salvador,5/1/2018
+,-1071607675,151
+Misceláneos,Pincel escolar No 8 (cerdas naturales),Sin Marca,1,Unidades,$0.75,Librería Bendición de Dios,"Calle Gerardo Barrios, Local L-5 Condominio Central Gerardo Barrios, Frente Edificio 1, Mercado Central",San Salvador,San Salvador,5/1/2018
+,-1071607675,151
+Misceláneos,"Pintura de dedo, estuche de 6 botes, mínimo 30ml por bote",Sin Marca,1,Unidades,$2.45,La Dibuteca,"Calle Libertad Poniente y Avenida Independencia, local 212 Barrio El Centro, Plaza Florida, Santa Ana",Santa Ana,Santa Ana,5/1/2018
+,-1071607675,151
+Misceláneos,"Pintura de dedo, estuche de 6 botes, mínimo 30ml por bote",Sin Marca,1,Unidades,$2.00,Librería Bendición de Dios,"Calle Gerardo Barrios, Local L-5 Condominio Central Gerardo Barrios, Frente Edificio 1, Mercado Central",San Salvador,San Salvador,5/1/2018
+,-1071607675,151
+Misceláneos,"Plástico Transparente para forrar, Yarda",Sin Marca,1,Unidades,$0.45,La Dibuteca,"Calle Libertad Poniente y Avenida Independencia, local 212 Barrio El Centro, Plaza Florida, Santa Ana",Santa Ana,Santa Ana,5/1/2018
+,-1071607675,151
+Misceláneos,"Plástico Transparente para forrar, Yarda",Sin Marca,1,Unidades,$0.30,Librería Bendición de Dios,"Calle Gerardo Barrios, Local L-5 Condominio Central Gerardo Barrios, Frente Edificio 1, Mercado Central",San Salvador,San Salvador,5/1/2018
+,-1071607675,151
+Misceláneos,Pliego de fomy (colores surtidos),Sin Marca,1,Unidades,$1.15,La Dibuteca,"Calle Libertad Poniente y Avenida Independencia, local 212 Barrio El Centro, Plaza Florida, Santa Ana",Santa Ana,Santa Ana,5/1/2018
+,-1071607675,151
+Misceláneos,Pliego de fomy (colores surtidos),Sin Marca,1,Unidades,$1.25,Librería Bendición de Dios,"Calle Gerardo Barrios, Local L-5 Condominio Central Gerardo Barrios, Frente Edificio 1, Mercado Central",San Salvador,San Salvador,5/1/2018
+,-1071607675,151
+Misceláneos,Pliego de papel bond de color (65x90 cm),Sin Marca,1,Unidades,$0.40,La Dibuteca,"Calle Libertad Poniente y Avenida Independencia, local 212 Barrio El Centro, Plaza Florida, Santa Ana",Santa Ana,Santa Ana,5/1/2018
+,-1071607675,151
+Misceláneos,Pliego de papel bond de color (65x90 cm),Sin Marca,1,Unidades,$0.35,Librería Bendición de Dios,"Calle Gerardo Barrios, Local L-5 Condominio Central Gerardo Barrios, Frente Edificio 1, Mercado Central",San Salvador,San Salvador,5/1/2018
+,-1071607675,151
+Misceláneos,Pliego de papel estaño 70x50 cm,Sin Marca,1,Unidades,$0.40,La Dibuteca,"Calle Libertad Poniente y Avenida Independencia, local 212 Barrio El Centro, Plaza Florida, Santa Ana",Santa Ana,Santa Ana,5/1/2018
+,-1071607675,151
+Misceláneos,Pliego de papel estaño 70x50 cm,Sin Marca,1,Unidades,$0.40,Librería Bendición de Dios,"Calle Gerardo Barrios, Local L-5 Condominio Central Gerardo Barrios, Frente Edificio 1, Mercado Central",San Salvador,San Salvador,5/1/2018
+,-1071607675,151
+Misceláneos,"Plumones  Punto Fino, caja de 12 unidades",Sin Marca,1,Unidades,$1.70,La Dibuteca,"Calle Libertad Poniente y Avenida Independencia, local 212 Barrio El Centro, Plaza Florida, Santa Ana",Santa Ana,Santa Ana,5/1/2018
+,-1071607675,151
+Misceláneos,"Plumones  Punto Fino, caja de 12 unidades",Sin Marca,1,Unidades,$1.50,Librería Bendición de Dios,"Calle Gerardo Barrios, Local L-5 Condominio Central Gerardo Barrios, Frente Edificio 1, Mercado Central",San Salvador,San Salvador,5/1/2018
+,-1071607675,151
+Misceláneos,"Portamina (0.5), unidad",Sin Marca,1,Unidades,$0.90,La Dibuteca,"Calle Libertad Poniente y Avenida Independencia, local 212 Barrio El Centro, Plaza Florida, Santa Ana",Santa Ana,Santa Ana,5/1/2018
+,-1071607675,151
+Misceláneos,"Portamina (0.5), unidad",Sin Marca,1,Unidades,$0.50,Librería Bendición de Dios,"Calle Gerardo Barrios, Local L-5 Condominio Central Gerardo Barrios, Frente Edificio 1, Mercado Central",San Salvador,San Salvador,5/1/2018
+,-1071607675,151
+Cuadernos Engrapados,Rayado (100/200),Sin Marca,1,Unidades,$0.47,Librería Bendición de Dios,"Calle Gerardo Barrios, Local L-5 Condominio Central Gerardo Barrios, Frente Edificio 1, Mercado Central",San Salvador,San Salvador,5/1/2018
+,-1071607675,151
+Cuadernos Engrapados,Rayado (50/100),Sin Marca,1,Unidades,$0.40,La Dibuteca,"Calle Libertad Poniente y Avenida Independencia, local 212 Barrio El Centro, Plaza Florida, Santa Ana",Santa Ana,Santa Ana,5/1/2018
+,-1071607675,151
+Cuadernos Engrapados,Rayado (50/100),Sin Marca,1,Unidades,$0.30,Librería Bendición de Dios,"Calle Gerardo Barrios, Local L-5 Condominio Central Gerardo Barrios, Frente Edificio 1, Mercado Central",San Salvador,San Salvador,5/1/2018
+,-1071607675,151
+Cuadernos de Espiral,Rayado No. 12 (No. 1),Sin Marca,1,Unidades,$1.20,La Dibuteca,"Calle Libertad Poniente y Avenida Independencia, local 212 Barrio El Centro, Plaza Florida, Santa Ana",Santa Ana,Santa Ana,5/1/2018
+,-1071607675,151
+Cuadernos de Espiral,Rayado No.3,Sin Marca,1,Unidades,$1.05,La Dibuteca,"Calle Libertad Poniente y Avenida Independencia, local 212 Barrio El Centro, Plaza Florida, Santa Ana",Santa Ana,Santa Ana,5/1/2018
+,-1071607675,151
+Misceláneos,Regla plástica transparente de 30 cm,Sin Marca,1,Unidades,$0.20,La Dibuteca,"Calle Libertad Poniente y Avenida Independencia, local 212 Barrio El Centro, Plaza Florida, Santa Ana",Santa Ana,Santa Ana,5/1/2018
+,-1071607675,151
+Misceláneos,Regla plástica transparente de 30 cm,Sin Marca,1,Unidades,$0.25,Librería Bendición de Dios,"Calle Gerardo Barrios, Local L-5 Condominio Central Gerardo Barrios, Frente Edificio 1, Mercado Central",San Salvador,San Salvador,5/1/2018
+,-1071607675,151
+Misceláneos,"Resaltador o marca texto fluorescente, unidad (cualquier color)",Sin Marca,1,Unidades,$0.85,La Dibuteca,"Calle Libertad Poniente y Avenida Independencia, local 212 Barrio El Centro, Plaza Florida, Santa Ana",Santa Ana,Santa Ana,5/1/2018
+,-1071607675,151
+Misceláneos,"Resaltador o marca texto fluorescente, unidad (cualquier color)",Sin Marca,1,Unidades,$0.65,Librería Bendición de Dios,"Calle Gerardo Barrios, Local L-5 Condominio Central Gerardo Barrios, Frente Edificio 1, Mercado Central",San Salvador,San Salvador,5/1/2018
+,-1071607675,151
+Misceláneos,"Resma de Papel Bond tamaño Carta, Base 20",Sin Marca,1,Unidades,$3.75,La Dibuteca,"Calle Libertad Poniente y Avenida Independencia, local 212 Barrio El Centro, Plaza Florida, Santa Ana",Santa Ana,Santa Ana,5/1/2018
+,-1071607675,151
+Misceláneos,"Resma de Papel Bond tamaño Carta, Base 20",Sin Marca,1,Unidades,$3.50,Librería Bendición de Dios,"Calle Gerardo Barrios, Local L-5 Condominio Central Gerardo Barrios, Frente Edificio 1, Mercado Central",San Salvador,San Salvador,5/1/2018
+,-1071607675,151
+Misceláneos,"Resma de Papel Bond tamaño Oficio, Base 20",Sin Marca,1,Unidades,$4.75,La Dibuteca,"Calle Libertad Poniente y Avenida Independencia, local 212 Barrio El Centro, Plaza Florida, Santa Ana",Santa Ana,Santa Ana,5/1/2018
+,-1071607675,151
+Misceláneos,"Sacapunta de Metal sin repuesto, unidad",Sin Marca,1,Unidades,$0.20,La Dibuteca,"Calle Libertad Poniente y Avenida Independencia, local 212 Barrio El Centro, Plaza Florida, Santa Ana",Santa Ana,Santa Ana,5/1/2018
+,-1071607675,151
+Misceláneos,"Sacapunta de Metal sin repuesto, unidad",Sin Marca,1,Unidades,$0.25,Librería Bendición de Dios,"Calle Gerardo Barrios, Local L-5 Condominio Central Gerardo Barrios, Frente Edificio 1, Mercado Central",San Salvador,San Salvador,5/1/2018
+,-1071607675,151
+"Cartapacios Lisos, Separadores y Páginas",Separadores para Cartapacio No. 12 (5 unidades),Sin Marca,1,Unidades,$1.05,La Dibuteca,"Calle Libertad Poniente y Avenida Independencia, local 212 Barrio El Centro, Plaza Florida, Santa Ana",Santa Ana,Santa Ana,5/1/2018
+,-1071607675,151
+Misceláneos,"Tijera Pequeña o Escolar, unidad",Sin Marca,1,Unidades,$0.45,La Dibuteca,"Calle Libertad Poniente y Avenida Independencia, local 212 Barrio El Centro, Plaza Florida, Santa Ana",Santa Ana,Santa Ana,5/1/2018
+,-1071607675,151
+Misceláneos,"Tijera Pequeña o Escolar, unidad",Sin Marca,1,Unidades,$0.50,Librería Bendición de Dios,"Calle Gerardo Barrios, Local L-5 Condominio Central Gerardo Barrios, Frente Edificio 1, Mercado Central",San Salvador,San Salvador,5/1/2018
+,-1071607675,151

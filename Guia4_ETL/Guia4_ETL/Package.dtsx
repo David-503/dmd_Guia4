@@ -11,8 +11,8 @@
   DTS:LocaleID="17418"
   DTS:ObjectName="Package"
   DTS:PackageType="5"
-  DTS:VersionBuild="17"
-  DTS:VersionGUID="{ECD9D943-1514-4079-B22C-F45B603BF0F5}">
+  DTS:VersionBuild="18"
+  DTS:VersionGUID="{5EE147E8-1A6A-40B9-BC14-2FDD30079092}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -277,7 +277,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAshO+gC16jUyovW00Le/NxAAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADdcZrSYFTo8/pyDiuP9LGrL25bFJKmve+jWr3VrwJL+gAAAAAOgAAAAAIAACAAAABrSfB23vBYdw+KHvTpCayid2k2T22TECmRtNJkK9mzAyAAAAD6ChFdmRRz1uV6eiF9FRYrKtSlA32o+7SmyeMm2XfrzEAAAABwckwlRTEcTgCiV9koqarMwNsi5y5Z8fEzFBYUKYbPWxkBG8QyfZUNUMLwtwtDImT2dYYY05BVHZqIG8kNWJrk</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAshO+gC16jUyovW00Le/NxAAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAABremWi6RkQ3y9zjIfGm6rDjHQ4IyeI3Nzvyn0dnfLJkQAAAAAOgAAAAAIAACAAAACpuwoRkz1tU/LlJi7QgiwniHuzA4AEtq95hp2HFRxTUSAAAAC7J8QYWoZB2/sCtoctircZ7dqHO+OyUCOHpLD0jaziC0AAAACNYuWOYGzqaOx49IME99Zxt9xKyLjwD6L5njBtCv5kCTR/QVElsrZmejxQvUs9EpSrDPeSlbGZbrx4u6E61Zf1</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -1765,8 +1765,8 @@
       <DTS:ForEachVariableMappings>
         <DTS:ForEachVariableMapping
           DTS:CreationName=""
-          DTS:DTSID="{E65A02C2-C3A3-4419-AB72-BB16F5BE6348}"
-          DTS:ObjectName="{E65A02C2-C3A3-4419-AB72-BB16F5BE6348}"
+          DTS:DTSID="{FD89292E-DA21-4341-99DF-30E3196A087E}"
+          DTS:ObjectName="{FD89292E-DA21-4341-99DF-30E3196A087E}"
           DTS:ValueIndex="0"
           DTS:VariableName="User::bulkfiles" />
       </DTS:ForEachVariableMappings>
@@ -1791,7 +1791,7 @@
         <ContainerLayout
           HeaderHeight="43"
           IsExpanded="True"
-          PanelSize="205,102"
+          PanelSize="205,103"
           Size="205,146"
           Id="Package\Contenedor de bucles Foreach"
           TopLeft="129,93" />
@@ -1816,6 +1816,10 @@
           Id="Package\Contenedor de bucles Foreach\Data Flow Task\valores_negativos"
           TopLeft="527,341" />
         <NodeLayout
+          Size="110,42"
+          Id="Package\Contenedor de bucles Foreach\Data Flow Task\Origen"
+          TopLeft="415,75" />
+        <NodeLayout
           Size="176,42"
           Id="Package\Contenedor de bucles Foreach\Data Flow Task\negative_price_error"
           TopLeft="713,440" />
@@ -1824,9 +1828,45 @@
           Id="Package\Contenedor de bucles Foreach\Data Flow Task\Conversiones"
           TopLeft="475,175" />
         <NodeLayout
-          Size="110,42"
-          Id="Package\Contenedor de bucles Foreach\Data Flow Task\Origen"
-          TopLeft="415,75" />
+          Size="171,42"
+          Id="Package\Contenedor de bucles Foreach\Data Flow Task\OLE DB Destination"
+          TopLeft="373,522" />
+        <EdgeLayout
+          Id="Package\Contenedor de bucles Foreach\Data Flow Task.Paths[valores_positivos]"
+          TopLeft="582.666666666667,383">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="-124.166666666667,139"
+              Start="0,0"
+              End="-124.166666666667,131.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,52.4106925880923" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,52.4106925880923"
+                    Point2="0,56.4106925880923"
+                    Point3="-4,56.4106925880923" />
+                  <mssgle:LineSegment
+                    End="-120.166666666667,56.4106925880923" />
+                  <mssgle:CubicBezierSegment
+                    Point1="-120.166666666667,56.4106925880923"
+                    Point2="-124.166666666667,56.4106925880923"
+                    Point3="-124.166666666667,60.4106925880923" />
+                  <mssgle:LineSegment
+                    End="-124.166666666667,131.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="-100.444915364583,61.4106925880923,76.7231640625,11.609375"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
         <EdgeLayout
           Id="Package\Contenedor de bucles Foreach\Data Flow Task.Paths[valores_negativos]"
           TopLeft="608.5,383">
@@ -1988,46 +2028,6 @@
           <EdgeLayout.Labels>
             <mssgm:EdgeLabel
               BoundingBox="2.28861328125001,5,129.9227734375,11.609375"
-              RelativePosition="Any" />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <NodeLayout
-          Size="171,42"
-          Id="Package\Contenedor de bucles Foreach\Data Flow Task\OLE DB Destination"
-          TopLeft="373,522" />
-        <EdgeLayout
-          Id="Package\Contenedor de bucles Foreach\Data Flow Task.Paths[valores_positivos]"
-          TopLeft="582.666666666667,383">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="-124.166666666667,139"
-              Start="0,0"
-              End="-124.166666666667,131.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,52.4106925880923" />
-                  <mssgle:CubicBezierSegment
-                    Point1="0,52.4106925880923"
-                    Point2="0,56.4106925880923"
-                    Point3="-4,56.4106925880923" />
-                  <mssgle:LineSegment
-                    End="-120.166666666667,56.4106925880923" />
-                  <mssgle:CubicBezierSegment
-                    Point1="-120.166666666667,56.4106925880923"
-                    Point2="-124.166666666667,56.4106925880923"
-                    Point3="-124.166666666667,60.4106925880923" />
-                  <mssgle:LineSegment
-                    End="-124.166666666667,131.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="-100.444915364583,61.4106925880923,76.7231640625,11.609375"
               RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
